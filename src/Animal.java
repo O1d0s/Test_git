@@ -1,4 +1,4 @@
-public class Animal {
+public class Animal{
     private String name;
     private int age;
 
@@ -14,4 +14,5 @@ public class Animal {
                 ", age=" + age +
                 '}';
     }
+
 }

@@ -1,4 +1,3 @@
 public interface interfaceVoice {
-
-    static void getVoice(){}
+    default void getVoice(){}
 }
