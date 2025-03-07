@@ -9,4 +9,6 @@ public class Dog extends Animal implements interfaceVoice {
     public void getVoice() {
         System.out.println("gaf-gaf");
     }
+
+
 }

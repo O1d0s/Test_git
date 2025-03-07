@@ -9,10 +9,8 @@ public class Animal{
 
     @Override
     public String toString() {
-        return "Animal{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
+        return "name='" + name + '\'' +
+                ", age=" + age;
     }
 
 }
